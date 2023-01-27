@@ -7,4 +7,4 @@ GIT AND GITHUB BASICS
 i have learned about git and git hub
 
 ## day -2
-questions
+i have started to learn android devlopment after exploring some  youtube videos and i commited on doing android application devlopment  as well as aws cp certificatiom
