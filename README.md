@@ -13,4 +13,5 @@ i have started to learn android development after exploring some  youtube videos
 started on learning android development that is learn kotlin or java in my case its kotlin and then dig some info about aws certification, created aws profile and installed aws in cli
 
 ## day -4 
-started on  android studio  got familiar with the environment  , started on xml and learned about layout interface 
+started on  android studio  got familiar with the environment  , started on xml and learned about layouts activities bults some basic screen and learnt about scrollveiw  got to know few basic command prompt commands
+
