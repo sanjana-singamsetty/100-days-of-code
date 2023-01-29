@@ -10,7 +10,7 @@ i have learned about git and git hub
 i have started to learn android devlopment after exploring some  youtube videos and i commited on doing android application devlopment  as well as aws cp certificatiom
 
 ## day - 3
-started on learning android devlopment that is learn kotlin or java in my case its kotlin and then dig some info about aws certification
+started on learning android devlopment that is learn kotlin or java in my case its kotlin and then dig some info about aws certification, created aws profile and installed aws in cli
 
 ## day -4 
 started on  android studio  got familiar with the environment  , started on xml and learned about layout interface 
