@@ -15,3 +15,6 @@ started on learning android development that is learn kotlin or java in my case 
 ## day -4 
 started on  android studio  got familiar with the environment  , started on xml and learned about layouts activities bults some basic screen and learnt about scrollveiw  got to know few basic command prompt commands
 
+## day - 5 
+worked on basic project learnt about connection between xml and kotlin-intent and solved some bugs , learned about prefernces and picked a website for rebuilding 
+
