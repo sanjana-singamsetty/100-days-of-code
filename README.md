@@ -18,3 +18,6 @@ started on  android studio  got familiar with the environment  , started on xml 
 ## day - 5 
 worked on basic project learnt about connection between xml and kotlin-intent and solved some bugs , learned about prefernces and picked a website for rebuilding 
 
+## day - 6
+started on  a new layout page lesrnt about gradients and moved to advanced topics from today
+
