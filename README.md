@@ -19,5 +19,9 @@ started on  android studio  got familiar with the environment  , started on xml 
 worked on basic project learnt about connection between xml and kotlin-intent and solved some bugs , learned about prefernces and picked a website for rebuilding 
 
 ## day - 6
-started on  a new layout page lesrnt about gradients and moved to advanced topics from today
+started on  a new layout page learnt about gradients and moved to advanced topics from today ,started workking on a book project
+
+## day - 7
+created a navagation bar for the app and resolved a bug which is about installing android x and merged some files and updated the api to 33
+
 
