@@ -25,3 +25,8 @@ started on  a new layout page learnt about gradients and moved to advanced topic
 created a navagation bar for the app and resolved a bug which is about installing android x and merged some files and updated the api to 33
 - started basics of operating system  for academic purpose 
 
+## day-8
+learnt about 
+ - fragments and worked on fragment  creation
+ - worked on  bug
+
