@@ -30,3 +30,5 @@ learnt about
  - fragments and worked on fragment  creation
  - worked on  bug
 
+## day -9 
+  worked on  fragements and learned about recycler veiw , tried to make a list of books using recycler view
