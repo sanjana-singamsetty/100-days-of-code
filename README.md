@@ -32,4 +32,7 @@ learnt about
 
 ## day -9 
   worked on  fragements and learned about recycler veiw , tried to make a list of books using recycler view
-  - created a ui page
+  - created a ui page using relative layout and added info using array list and all 
+  - solved bugs while using adaptors 
+  - learned about aws cp- usefullness
+  
