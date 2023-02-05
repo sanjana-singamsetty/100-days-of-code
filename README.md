@@ -47,4 +47,12 @@ learnt about
   - created a ui page using relative layout and added info using array list and all 
   - solved bugs while using adaptors 
   - learned about aws cp- usefullness
-  
+
+## day -10
+ worked on 
+ - internet connectivity 
+ - learnt about JSON and API 
+ - Sucessfully retrieved the data from the Api
+ -  added some toasts for the books 
+ -  created a progress bar (buffering symbol) 
+ -  cleared appcrashes multiple times
