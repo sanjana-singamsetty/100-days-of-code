@@ -56,3 +56,12 @@ learnt about
  -  added some toasts for the books 
  -  created a progress bar (buffering symbol) 
  -  cleared appcrashes multiple times
+
+## day -11
+Worked on 
+- post request but got a lot of bugs 
+- started on a new app to distract and practice 
+-created ui and learnt about firebase 
+-created a link between database and app 
+-should solve a bug of menu in app
+- revised intent and recycler veiw
