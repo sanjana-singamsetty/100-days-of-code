@@ -71,3 +71,5 @@ Worked on
 - can switch and veiw messages the messages got stored in sever but witnessed a bug ,
 - learnt how to authenticate with email 
 - sucessfully completed chat application
+-  solved the bug which was null
+ 
