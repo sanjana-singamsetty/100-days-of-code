@@ -56,6 +56,7 @@ learnt about
  -  added some toasts for the books 
  -  created a progress bar (buffering symbol) 
  -  cleared appcrashes multiple times
+ 
 
 ## day -11
 Worked on 
@@ -65,3 +66,8 @@ Worked on
 - created a link between database and app 
 - should solve a bug of menu in app
 - revised intent and recycler veiw
+
+## day - 12
+- can switch and veiw messages the messages got stored in sever but witnessed a bug ,
+- learnt how to authenticate with email 
+- sucessfully completed chat application
