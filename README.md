@@ -73,3 +73,9 @@ Worked on
 - sucessfully completed chat application
 -  solved the bug which was null
  
+ ## day- 13
+ - built a basic bmi caluculator 
+ - brushed up basics 
+ -  learnt about data extraction  and some basic stuff
+       - using beautiful soup
+    
