@@ -77,5 +77,10 @@ Worked on
  - built a basic bmi caluculator 
  - brushed up basics 
  -  learnt about data extraction  and some basic stuff
-       - using beautiful soup
+ - using beautiful soup
+ 
+ # day - 14
+ - learnt how to work with audio and video files in android
+ - learnt about inflator and Adaptor in recyclerview
+ - built a basic app
     
