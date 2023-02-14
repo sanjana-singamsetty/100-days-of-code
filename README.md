@@ -83,4 +83,8 @@ Worked on
  - learnt how to work with audio and video files in android
  - learnt about inflator and Adaptor in recyclerview
  - built a basic app
+
+# day -15
+- started on a news app
+- worked halfway through and got an error 
     
