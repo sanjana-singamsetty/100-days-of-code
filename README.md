@@ -79,11 +79,7 @@ Worked on
  -  learnt about data extraction  and some basic stuff
  - using beautiful soup
 
-## day - 14
-- started on a weather app
-- worked on ui and json get requests 
-- worked on gps permissions and implemented it sucessfully
- 
+
  # day - 14
  - learnt how to work with audio and video files in android
  - learnt about inflator and Adaptor in recyclerview
@@ -92,4 +88,12 @@ Worked on
 # day -15
 - started on a news app
 - worked halfway through and got an error 
+
+
+ ## day - 16
+- started on a weather app
+- worked on ui and json get requests 
+- worked on gps permissions and implemented it sucessfully
+
+ 
     
