@@ -78,6 +78,11 @@ Worked on
  - brushed up basics 
  -  learnt about data extraction  and some basic stuff
  - using beautiful soup
+
+## day - 14
+- started on a weather app
+- worked on ui and json get requests 
+- worked on gps permissions and implemented it sucessfully
  
  # day - 14
  - learnt how to work with audio and video files in android
