@@ -95,5 +95,8 @@ Worked on
 - worked on ui and json get requests 
 - worked on gps permissions and implemented it sucessfully
 
+## day -17
+- completed weather app understood json get request 
+- got to know about card veiw and worked on ui bsed on it
  
     
