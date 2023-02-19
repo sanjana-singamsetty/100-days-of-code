@@ -99,4 +99,9 @@ Worked on
 - completed weather app understood json get request 
 - got to know about card veiw and worked on ui bsed on it
  
+## day -18
+- started on a new app 
+- created a ui for period tracker spalshscreen
+-got to know about calender veiw 
+
     
