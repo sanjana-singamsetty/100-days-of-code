@@ -104,4 +104,5 @@ Worked on
 - created a ui for period tracker spalshscreen
 -got to know about calender veiw 
 
-    
+## day - 19
+- worked on ui and created 2 layout pages was feeling unmotivated
