@@ -106,3 +106,9 @@ Worked on
 
 ## day - 19
 - worked on ui and created 2 layout pages was feeling unmotivated
+
+## day -20
+- worked on remaining ui part and started on the coding part
+- made the app work by giving the link between xml and kotlin code
+- added fragments made the ui corrections
+
