@@ -112,3 +112,6 @@ Worked on
 - made the app work by giving the link between xml and kotlin code
 - added fragments made the ui corrections
 
+## day - 21
+- worked on my project and found a lot of errors
+- learnt date picker and implemented a app
