@@ -115,3 +115,10 @@ Worked on
 ## day - 21
 - worked on my project and found a lot of errors
 - learnt date picker and implemented a app
+
+## day - 22
+- worked on caluculator ui and learnt about aws
+
+## day 23
+ - worked on login and signup page based on firebase
+
