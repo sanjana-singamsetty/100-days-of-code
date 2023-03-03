@@ -120,5 +120,12 @@ Worked on
 - worked on caluculator ui and learnt about aws
 
 ## day 23
- - worked on login and signup page based on firebase
+ - worked on login and signup page ui
+ 
+ ## day 24
+ learnt about aws and created user id that is root user and iam user
+ 
+ ## day 25
+ --learn aboyut jetcompose library 
+ -- make the firebase setup for app
 
