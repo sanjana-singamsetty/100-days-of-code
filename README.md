@@ -127,5 +127,11 @@ Worked on
  
  ## day 25
  --learn aboyut jetcompose library 
- -- make the firebase setup for app
+ -- focused on academics
+ 
+ ## day 26
+ lazy day could not do much just revised academics
+ 
+ ## day 27 
+ 
 
